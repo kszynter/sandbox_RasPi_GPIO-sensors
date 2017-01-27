@@ -6,6 +6,5 @@ https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-
 
 Modified it to read multiple sensors.
 
-# remember to add an entry to /boot/config.txt
-# and reboot; when using GPIO PIN 2 it is:
-# dtoverlay=w1-gpio,gpiopin=2
+Remember to add an entry to /boot/config.txt and reboot. When using GPIO PIN 2 it is:
+dtoverlay=w1-gpio,gpiopin=2
