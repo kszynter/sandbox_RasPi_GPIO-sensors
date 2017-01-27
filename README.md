@@ -5,3 +5,7 @@ The code is based on:
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/software
 
 Modified it to read multiple sensors.
+
+# remember to add an entry to /boot/config.txt
+# and reboot; when using GPIO PIN 2 it is:
+# dtoverlay=w1-gpio,gpiopin=2
