@@ -1,5 +1,7 @@
 # sandbox_RasPi_GPIO-sensors
-Read multiple DS18B20 temperature sensors connected to RaspberryPi GPIO pinouts and give an average value.
+Scripts for:
+- reading multiple DS18B20 temperature sensors
+- reading a GL5528 light sensor
 
 The code is based on:
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/software
