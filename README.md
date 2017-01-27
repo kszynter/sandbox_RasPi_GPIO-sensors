@@ -1,4 +1,4 @@
-# sandbox_RasPi_TempSensors
+# sandbox_RasPi_GPIO-sensors
 Read multiple DS18B20 temperature sensors connected to RaspberryPi GPIO pinouts and give an average value.
 
 The code is based on:
